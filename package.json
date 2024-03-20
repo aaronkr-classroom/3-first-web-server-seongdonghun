@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "cities": "^2.0.0"
+    "cities": "^2.0.0",
+    "http": "^0.0.1-security"
   }
 }
