@@ -4,7 +4,8 @@
   "description": "Lesson 6 Exercises",
   "main": "listing6.2.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start":"node6.4.EX.js"
   },
   "author": "Aaron Snowberger",
   "license": "ISC",
